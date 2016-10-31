@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=LeggedBot.SchDoc
 Record=SheetSymbol|SourceDocument=LeggedBot.SchDoc|Designator=BACK|SchDesignator=BACK|FileName=MotorDriver_TB6612.SchDoc|SymbolType=Normal|RawFileName=MotorDriver_TB6612.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LeggedBot.SchDoc|Designator=BUCK|SchDesignator=BUCK|FileName=MP1584_5V.SchDoc|SymbolType=Normal|RawFileName=MP1584_5V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=LeggedBot.SchDoc|Designator=FRONT|SchDesignator=FRONT|FileName=MotorDriver_TB6612.SchDoc|SymbolType=Normal|RawFileName=MotorDriver_TB6612.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=LeggedBot.SchDoc|Designator=MID|SchDesignator=MID|FileName=MotorDriver_TB6612.SchDoc|SymbolType=Normal|RawFileName=MotorDriver_TB6612.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
