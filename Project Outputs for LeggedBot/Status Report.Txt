@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LeggedBot.PcbDoc]
+   Generated File[LeggedBot.TXT]
+   Generated File[LeggedBot.LDP]
+   Generated File[LeggedBot.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:47:19 AM On 10/31/2016

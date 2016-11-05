@@ -124,24 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CVXDYMRV
 
 [Document6]
-DocumentPath=EncoderBreakout_AS5048B.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UOXQTJVJ
-
-[Document7]
-DocumentPath=EncoderBreakout_AS5048B.PcbDoc
+DocumentPath=MP1584_5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,7 +138,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MESLRRQS
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LeggedBot\Design Rule Check - LeggedBot.html
