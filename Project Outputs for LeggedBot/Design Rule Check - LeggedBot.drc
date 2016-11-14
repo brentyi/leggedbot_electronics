@@ -1,13 +1,14 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\brent\OneDrive\classes\desinv22\final\leggedbot_electrical\LeggedBot.PcbDoc
 Date     : 11/13/2016
-Time     : 5:29:47 AM
+Time     : 5:50:45 AM
 
 Processing Rule : Room BUCK (Bounding Region = (3075.63mil, 1924.646mil, 3840.039mil, 2378.622mil) (InComponentClass('BUCK'))
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (Direct) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -532,5 +533,5 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 486
-Time Elapsed        : 00:00:06
+Violations Detected : 487
+Time Elapsed        : 00:00:05
