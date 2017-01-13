@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LeggedBot.PcbDoc   10/31/2016  8:47:18 AM
+NCDrill File Report For: LeggedBot.PcbDoc   11/14/2016  7:40:54 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,14 @@ ASCII RoundHoles File : LeggedBot.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             6         PTH        0.22inch (5.50mm)
-T2      15mil (0.381mm)                                           Round             120       PTH        16.47inch (418.26mm)
-T3      30mil (0.762mm)                                           Round             38        PTH        5.93inch (150.62mm)
-T4      32mil (0.8mm)                                             Round             24        PTH        5.04inch (127.94mm)
+T1      10mil (0.254mm)                                           Round             168       PTH        17.44inch (443.06mm)
+T2      15mil (0.381mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      30mil (0.762mm)                                           Round             8         PTH        0.70inch (17.78mm)
+T4      32mil (0.8mm)                                             Round             28        PTH        6.17inch (156.62mm)
 T5      35mil (0.9mm)                                             Round             4         PTH        0.80inch (20.41mm)
-T6      130mil (3.3mm)                                            Round             6         PTH        5.37inch (136.40mm)
+T6      38mil (0.965mm)                                           Round             30        PTH        3.90inch (99.06mm)
+T7      130mil (3.3mm)                                            Round             6         PTH        5.37inch (136.40mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              198
+Totals                                                                              245
 
 Total Processing Time (hh:mm:ss) : 00:00:00

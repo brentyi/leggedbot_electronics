@@ -1,12 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [LeggedBot.PcbDoc]
-   Generated File[LeggedBot.TXT]
-   Generated File[LeggedBot.LDP]
-   Generated File[LeggedBot.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LeggedBot.PrjPcb]
 
 
-Files Generated   : 3
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 8:47:19 AM On 10/31/2016
+Finished Output Generation At 7:45:10 PM On 11/22/2016
