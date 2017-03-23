@@ -1,6 +1,6 @@
 # Sparky electrical
 
-![boards](/Project Outputs for LeggedBot/board.png)
+![boards](/Project%20Outputs%20for%20LeggedBot/board.png)
 
 Repository for the primary control PCB of our hexapedal robot.
 
